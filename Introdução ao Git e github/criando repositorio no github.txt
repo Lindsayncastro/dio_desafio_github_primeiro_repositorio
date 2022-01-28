@@ -1,0 +1,21 @@
+Criando um progeto do git/github
+
+links úteis: 
+https://www.markdownguide.org/basic-syntax/
+https://git-scm.com/downloads
+
+- Acesse o seu perfil no Github
+- Vá em meus repositórios
+- Clique em criar novo repositório
+- Digite o nome desejado do repositório
+- Marque público ou privado
+- Marcar a caixinha : readme 
+- Faz as devidas alterações para apresentação do seu projeto
+- Clica commitar
+- Copia o Http do código
+- Crie uma pasta em seu computador como o nome do proejeto a ser criado
+- Abra do gitbash nessa pasta 
+- Digite git clone e cola o Https
+- Se desejar digite git status para ver como está o código
+- Digite git add .
+- Digite git commit -m "inclusao do .."
